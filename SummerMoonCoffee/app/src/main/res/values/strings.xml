@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SummerMoonCoffee</string>
+    <string name="company_name">Summer Moon Coffee Cafe</string>
+    <string name="title_about_us">About Us</string>
+    <string name="company_summary">Summermoon is the only roaster that hearkens back to the lost legacy of artisans past. Our wood-fired process makes us the most disinctive roaster in America.</string>
+    <string name="title_contact_inf">Contact Information</string>
+    <string name="company_phone">Phone Number: (512) 804-1665</string>
+    <string name="company_email">Email Address: info@woodfiredcoffee.com</string>
+    <string name="company_web">Website: summermooncoffee.com</string>
+    <string name="title_address">Address</string>
+    <string name="company_address">3115 S 1st St #1b, Austin, TX 78704</string>
+    <string name="title_hours">Business Hours</string>
+</resources>
